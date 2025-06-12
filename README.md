@@ -34,4 +34,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-> Hecho con ❤️ por
+> Hecho con ❤️ por [Sebas G](https://github.com/5h4rKYCode).    
