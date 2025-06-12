@@ -7,7 +7,7 @@ Este es un proyecto web sencillo en el que he aplicado tanto clases de Bootstrap
 
 - Organización de componentes reutilizables.
 
-#Características
+## Características
 - Responsive Design: Adaptable a dispositivos móviles, tablets y escritorios.
 
 - Bootstrap: Versiones de Bootstrap 4/5 (indicar versión) para grid, utilidades y componentes.
@@ -16,16 +16,9 @@ Este es un proyecto web sencillo en el que he aplicado tanto clases de Bootstrap
 
 - Componentes Reutilizables: Botones, tarjetas, navbar y formularios.
 
-  #ESTRUCTURA
+  ## Como usarlo 
 
-├── index.html          # Página principal
-├── css/
-│   └── styles.css      # Estilos personalizados/Bootstrap
-├── js/
-│   └── scripts.js      
-├── img/                # Imágenes y recursos estáticos
-└── README.md           # Documentación del proyecto
-
+1. Clona el repo y abrelo en tu VS code
 2. Abre `index.html` en tu navegador.
 3. Edita y personaliza los archivos en `css/` conforme a tus necesidades.
 
